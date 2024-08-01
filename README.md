@@ -1,7 +1,7 @@
 - 👋 Oi, Eu sou @Kynzw, também conhecido como Lucas ou Yhan
 - 👀 Estou interessado em salvar meus projetos de aprendizado
-- 🌱 Atualmente estou aprendendo Unity E Gamemaker Studios 2
-- 📫 Você pode me chamar no discord por Kynzw#3388
+- 🌱 Atualmente estou aprendendo Unity E Unity
+- 📫 Você pode me chamar no discord por Kynzw
 
 Obrigado por acessar meu GitHub
 
