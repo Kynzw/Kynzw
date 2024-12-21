@@ -1,6 +1,6 @@
-- 👋 Oi, Eu sou @Kynzw, também conhecido como Lucas ou Yhan
+- 👋 Oi, Eu sou @Kynzw
 - 👀 Estou interessado em salvar meus projetos de aprendizado
-- 🌱 Atualmente estou aprendendo Unity
+- 🌱 Atualmente estou aprendendo Unity e Unreal
 - 📫 Você pode me chamar no discord por Kynzw
 
 Obrigado por acessar meu GitHub
